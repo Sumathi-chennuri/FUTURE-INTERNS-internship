@@ -52,7 +52,7 @@ To build a mini e-commerce application with product listing and checkout simulat
 - Checkout form with validation  
 - Optional user authentication  
 
-📂 Folder: `Task-2_Ecommerce`
+📂 Folder: `FUTURE_FS_02`
 
 ---
 
@@ -71,7 +71,7 @@ To redesign a popular brand’s website using AI-powered tools and modern UI/UX 
 - Modern UI/UX redesign  
 - SEO & mobile-first optimization  
 
-📂 Folder: `Task-3_Rebrand_AI`
+📂 Folder: `FUTURE_FS_03`
 
 ---
 
@@ -84,12 +84,6 @@ To redesign a popular brand’s website using AI-powered tools and modern UI/UX 
 - GitHub project structuring  
 
 ---
-
-## 🔗 GitHub Repository
-All tasks are maintained in a public GitHub repository as per Future Interns guidelines.
-
----
-
 ## 🏁 Conclusion
 This internship helped me strengthen my **frontend, backend, and AI-assisted web development skills** while working on practical, real-world projects.
 
