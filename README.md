@@ -31,7 +31,7 @@ To design and develop a personal portfolio website showcasing skills, projects, 
 - SEO optimization  
 - Responsive design  
 
-📂 Folder: `Task-1_Portfolio`
+📂 Folder: `FUTURE_FS_01`
 
 ---
 
