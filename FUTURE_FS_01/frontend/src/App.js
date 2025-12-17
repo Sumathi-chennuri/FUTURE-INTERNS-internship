@@ -1,0 +1,29 @@
+import React from "react";
+
+function App() {
+  return (
+    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1>👋 Hi, I'm a Full Stack Developer</h1>
+      <p>Intern at Future Interns</p>
+
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React.js</li>
+        <li>Node.js</li>
+      </ul>
+
+      <h2>Projects</h2>
+      <p>Portfolio Website, Mini E-Commerce</p>
+
+      <h2>Contact</h2>
+      <form>
+        <input placeholder="Your Email" /><br /><br />
+        <textarea placeholder="Message"></textarea><br /><br />
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  );
+}
+
+export default App;
