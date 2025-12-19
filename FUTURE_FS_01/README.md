@@ -14,4 +14,4 @@ Personal portfolio website created as part of Future Interns internship.
 - Contact form
 
 ## Author
-Baby
+CHENNURI SUMATHI
