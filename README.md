@@ -19,9 +19,9 @@ The internship focuses on building **real-world, scalable, and modern web applic
 
 | Task      | Description                                 | Link                                                                |
 | --------- | ------------------------------------------- | ------------------------------------------------------------------- |
-| 🔹 Task 1 | Personal Professional Portfolio Website     | [Open Task 1](https://github.com/YOUR_GITHUB_USERNAME/FUTURE_FS_01) |
-| 🔹 Task 2 | Client Lead Management System (Mini CRM)    | [Open Task 2](https://github.com/YOUR_GITHUB_USERNAME/FUTURE_FS_02) |
-| 🔹 Task 3 | Local Business Website & Live Pitch Project | [Open Task 3](https://github.com/YOUR_GITHUB_USERNAME/FUTURE_FS_03) |
+| 🔹 Task 1 | Personal Professional Portfolio Website     | [Open Task 1](https://github.com/Sumathi-chennuri/FUTURE_FS_01) |
+| 🔹 Task 2 | Client Lead Management System (Mini CRM)    | [Open Task 2](https://github.com/Sumathi-chennuri/FUTURE_FS_02) |
+| 🔹 Task 3 | Local Business Website & Live Pitch Project | [Open Task 3](https://github.com/Sumathi-chennuri/FUTURE_FS_03) |
 
 ---
 
