@@ -1,18 +1,7 @@
 body {
-  font-family: Arial;
-  text-align: center;
+    text-align: center;
+    font-family: Arial;
 }
-
-.product {
-  border: 1px solid #ddd;
-  padding: 20px;
-  width: 200px;
-  margin: auto;
-}
-
-button {
-  background: green;
-  color: white;
-  border: none;
-  padding: 8px;
+input {
+    margin: 5px;
 }
