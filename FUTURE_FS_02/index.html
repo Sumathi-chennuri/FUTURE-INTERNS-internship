@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mini E-Commerce</title>
-  <link rel="stylesheet" href="css/style.css">
+    <title>CRM</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h1>Mini Store</h1>
+<h1>Lead Manager</h1>
 
-<div class="product">
-  <h2>T-Shirt</h2>
-  <p>₹499</p>
-  <button onclick="addToCart()">Add to Cart</button>
-</div>
+<input id="name" placeholder="Name">
+<input id="status" placeholder="Status">
+<button onclick="addLead()">Add Lead</button>
 
-<div id="cart">
-  <h3>Cart Items: <span id="count">0</span></h3>
-</div>
+<ul id="list"></ul>
 
-<script src="js/script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
